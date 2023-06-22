@@ -1,0 +1,7 @@
+.customer-container {
+    background-color: #fceeee;
+    border-radius: 20px;
+    padding: 30px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
